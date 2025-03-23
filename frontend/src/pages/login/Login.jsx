@@ -18,7 +18,7 @@ export default function Login() {
       >
         {/* Title */}
         <h3 className="text-5xl font-bold text-white tracking-wide drop-shadow-lg">
-          Lamasocial
+          MS
         </h3>
         <p className="text-gray-300 text-center text-lg">
           Connect with friends in a futuristic way.

@@ -3,6 +3,16 @@
 ## Description
 This is a social media web application built with a Node.js and Express backend and a React frontend. The application allows users to interact with each other, share posts, and manage their profiles seamlessly. Users can create accounts, log in, and engage with content through likes, comments, and shares. The application also features a responsive design, ensuring a smooth experience across various devices. With a focus on user experience, it leverages modern technologies such as MongoDB for data storage and Vite for fast frontend development. This project aims to provide a platform for users to connect and share their thoughts and experiences in a vibrant online community.
 
+## Screenshots
+### Profile Page
+![Profile Page](https://collection.cloudinary.com/dmvwgos9j/21d8157d155e617e74c2fd7824d15e65)
+
+### Home Page
+![Home Page](https://collection.cloudinary.com/dmvwgos9j/21d8157d155e617e74c2fd7824d15e65)
+
+### Login Page
+![Login Page](https://collection.cloudinary.com/dmvwgos9j/2896a7e8b19069c22bb16d929f416767)
+
 
 ## Installation Instructions
 

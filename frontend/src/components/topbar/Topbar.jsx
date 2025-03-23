@@ -8,7 +8,7 @@ export default function Topbar() {
       <Link to= "/">
         <div className="flex-[3]">
           <span className="text-3xl font-extrabold text-white tracking-wide cursor-pointer drop-shadow-lg">
-            Lamasocial
+            MS
           </span>
         </div>
       </Link>
