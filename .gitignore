@@ -1,0 +1,135 @@
+# --- General ---
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+*.pid
+*.seed
+*.pid.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Package manager lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# --- Frontend (React) ---
+# Build directories
+build/
+dist/
+
+# Static files
+public/static/
+
+# Cache
+.cache/
+.next/
+out/
+coverage/
+.vite/
+*.cache
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# --- Backend (Node.js, MongoDB) ---
+# Database files
+*.db
+*.sqlite
+dump.rdb
+*.log.*
+
+# Build output
+build/
+dist/
+
+# Debug and profiler output
+*.log
+*.prof
+*.map
+*.lock
+*.gz
+
+# PM2 logs
+.pm2/
+
+# MongoDB dump files
+dump/
+
+# --- General Security ---
+# Sensitive files
+.env
+.env.*
+*.pem
+*.key
+
+# --- Miscellaneous ---
+# Temporary files and folders
+*.tmp
+*.swp
+*.bak
+*.backup
+*.old
+*.orig
+*.rej
+*.session
+*.sock
+*.seed
+
+# Local environment files
+.vscode/
+.local/
+*.envrc
+.history
+
+# Coverage directories
+.nyc_output/
+coverage/
+
+# System files
+.sass-cache/
+*.sass-cache
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+
+# Yarn berry
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.yarnrc.yml
+.pnp.*
