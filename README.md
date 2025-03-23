@@ -5,7 +5,7 @@ This is a social media web application built with a Node.js and Express backend 
 
 ## Screenshots
 ### Profile Page
-![Profile Page](https://collection.cloudinary.com/dmvwgos9j/21d8157d155e617e74c2fd7824d15e65)
+![Profile Page]([https://collection.cloudinary.com/dmvwgos9j/21d8157d155e617e74c2fd7824d15e65](https://res.cloudinary.com/dmvwgos9j/image/upload/v1742723622/profile_htqojt.png))
 
 ### Home Page
 ![Home Page](https://collection.cloudinary.com/dmvwgos9j/21d8157d155e617e74c2fd7824d15e65)
